@@ -6,6 +6,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/bradybiethman/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/bradybiethman/azure-network-protocols)
+
 I'm currently studying IT to break into the field.
 
 Feel free to contact me at my email bradybiethman@gmail.com or by phone at (618)-317-0567
