@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brady, an <a href="https://www.linkedin.com/in/brady-biethman-67449b249/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Brady, an <a href="https://www.linkedin.com/in/brady-biethman-67449b249/">IT Professional!</h1>
 
 <h2>👨‍💻 Information Technology Project:</h2>
 
