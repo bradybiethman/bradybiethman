@@ -7,4 +7,6 @@
 
 I'm currently studying IT through Course Careers to break into the field.
 
+<h2>Connect with me:</h2>
+
 Feel free to contact me at my email bradybiethman@gmail.com or by phone at (618)-317-0567
