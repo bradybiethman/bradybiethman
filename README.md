@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Project:</h2>
 
 - <b> Preparing Active Directory Infrastructure in Azure </b>
-- https://github.com/bradybiethman/Preparing-Active-Directory-Infrastructure-in-Azure
+ - https://github.com/bradybiethman/Preparing-Active-Directory-Infrastructure-in-Azure
 
 I'm currently studying IT through Course Careers to break into the field.
 
