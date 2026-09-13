@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Project:</h2>
 
 - <b>Creating Virtual Machines and configuring DNS Settings in Microsoft Azure</b>
-  - [Preparing Active Directory Infrastructure in Azure](https://github.com/bradybiethman/Preparing-Active-Directory-Infrastructure-in-Azure)
+  - [Creating Virtual Machines and Testing Connectivity in Azure](https://github.com/bradybiethman/Creating Virtual Machines and Testing Connectivity in Azure)
 
-I'm currently studying IT through Course Careers to break into the field.
+I earned my certification by studying IT through Course Careers to break into the field.
 
 <h2>Connect with me:</h2>
 
