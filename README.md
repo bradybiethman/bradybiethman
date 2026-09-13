@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Project:</h2>
 
 - <b>Creating Virtual Machines and configuring DNS Settings in Microsoft Azure</b>
-  - [Creating Virtual Machines and Testing Connectivity in Azure](https://github.com/bradybiethman/Creating Virtual Machines and Testing Connectivity in Azure)
+  - [Creating Virtual Machines and Testing Connectivity in Azure](https://github.com/bradybiethman/Creating-Virtual-Machines-and-Testing-Connectivity-in-Azure))
 
 I earned my certification by studying IT through Course Careers to break into the field.
 
